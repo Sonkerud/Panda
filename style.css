@@ -12,9 +12,13 @@ body {
 }
 
  img {
-    width: 850px;
+    width: 400px;
     border-style: dotted;
     border-width: 10px;
+}
+.image{
+    margin-right: 200px;
+    margin-left: 200px;
 }
 
  #Panda{
