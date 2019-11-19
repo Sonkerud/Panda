@@ -2,14 +2,17 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 60em;
-    background-image: "https://cbsnews1.cbsistatic.com/hub/i/2016/08/26/cdf56aa8-1f2a-4d44-8cac-ab5993ee7d18/gettyimages-594359398.jpg";
-    
-  }
+}
+
   head {
       background-color: black;
   }
-  h1 {
-   
+
+
+img {
+    width: 40;
+    height: 50;
+    
 }
 
   #Panda{
@@ -27,7 +30,7 @@ body {
 
   #div1{
       background-color: green;
-  
+      font-family: "Times New Roman";
   }
   #div2{
     background-color: green;
