@@ -83,3 +83,13 @@ h2{
    
 
     }
+
+    .card {
+        width: 130px;
+        height: 195px;
+        background: url("pandastängdmun.jpg") no-repeat;
+        display: inline-block;
+    }
+    .card:hover {
+        background: url("pandaöppenmun.jpg") no-repeat;
+    }
