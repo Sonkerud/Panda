@@ -80,16 +80,22 @@ h2{
   }
   .table th {
     background-color: red;
-   
-
     }
 
     .card {
         width: 130px;
         height: 195px;
-        background: url("pandastängdmun.jpg") no-repeat;
+        position: relative;
+        margin-left: 200px;
         display: inline-block;
     }
-    .card:hover {
-        background: url("pandaöppenmun.jpg") no-repeat;
+    .card .img-top {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 99;
+    }
+    .card:hover .img-top {
+        display: inline;
     }
