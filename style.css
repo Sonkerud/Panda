@@ -6,26 +6,26 @@ body {
       background-color: black;
   }
   h1 {
-    background-color: blueviolet;
-    color: blue;
-  }
+   
+}
 
-  .Panda{
+  #Panda{
       color: red;
       background-color: green;
   }
 
-  Text{
+  #Text{
     background-color: powderblue;
     color: green;
   }
 
-  .div1{
+  #div1{
       background-color: green;
   }
-  .div2{
+  #div2{
     background-color: green;
 }
-  .header {
+  #header {
       background-color: black;
+      color: teal;
   }
