@@ -2,11 +2,14 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 55em;
-     
+ 
     
 }
 .borderclass{
-    border-style: ridge;
+    border-style: solid;
+    border-left: 200px;
+    border-right: 200px;
+    border-color: pink;
     background-color: lightslategrey;
     padding: 10px;
 }
@@ -79,4 +82,4 @@ h2{
     background-color: red;
    
 
-}
+    }
