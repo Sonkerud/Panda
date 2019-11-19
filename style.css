@@ -7,9 +7,11 @@ body {
     
 }
 .borderclass{
-    border-style: ridge;
+    border-style: dotted;
     background-color:white;
     padding: 10px;
+    border-width: 200;
+    
 }
 
  img {
