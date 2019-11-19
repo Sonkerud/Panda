@@ -8,23 +8,22 @@ body {
 .borderclass{
     border-style: ridge;
     background-image: "https://wwwwwfse.cdn.triggerfish.cloud/uploads/2018/12/panda_medium_ww191377-1600x1070.jpg";
+    padding: 10px;
 }
 
   head {
       background-color: black;
   }
 
-img {
+ img {
     width: 850px;
     border-style: dotted;
     border-width: 10px;
-
-}
-.image img{
-    align-content: center;
 }
 
-  #Panda{
+
+
+ #Panda{
       color: black;
 
       background-color: burlywood;
@@ -50,9 +49,7 @@ img {
     margin-left: auto;
 }
 
-  #div2{
-    background-color: green;
-}
+
   #header {
       background-color: black;
       color: red;
@@ -60,6 +57,7 @@ img {
       text-decoration-style: dotted;
       height: 200px;
   }
+
   table, th, td {
     border: 1px solid black;
     align-content: center;
