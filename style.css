@@ -12,9 +12,11 @@ body {
 }
 h1{
     text-shadow: 2px 2px 8px green;
+    color: darkgreen;
 }
 h2{
     text-shadow: 2px 2px 8px  green;
+    color: darkgreen;
 }
  img {
     width: 400px;
