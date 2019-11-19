@@ -6,19 +6,17 @@ body {
     
 }
 .borderclass{
-    border-style: solid;
-    border-left: 200px;
-    border-right: 200px;
+   
     border-color: pink;
     background-color: lightslategrey;
     padding: 10px;
-    border-left: 12px solid pink;
-    border-right: 12px solid pink;
+    border-left: 15px solid pink;
+    border-right: 15px solid pink;
     
 }
 h1{
     text-shadow: 2px 2px 8px green;
-    color: darkgreen;
+    color: red;
 }
 h2{
     text-shadow: 2px 2px 8px  green;
@@ -56,12 +54,12 @@ h2{
 
 
   #header {
-      /*-- background-image: url("https://www.nationalgeographic.com/content/dam/animals/2018/08/giant-pandas-vitale/panda-cubs-group.adapt.1900.1.jpg");--*/   
+      background-image: url("https://www.nationalgeographic.com/content/dam/animals/2018/08/giant-pandas-vitale/panda-cubs-group.adapt.1900.1.jpg"); 
       background-color: purple;
       color:red;
       text-align: center;
       text-decoration-style: dotted;
-      height: 80px;
+      height: 50px;
   }
 
   table, th, td {
