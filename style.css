@@ -2,6 +2,9 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 55em;
+    
+}
+.borderclass{
     border-style: ridge;
 }
 
@@ -40,6 +43,9 @@ img {
     font-family: "Times New Roman";
     border-style: solid;
     border-width: 8px;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
   #div2{
@@ -54,7 +60,10 @@ img {
   table, th, td {
     border: 1px solid black;
     align-content: center;
-    width: 100%;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+
 
   }
   th {
@@ -62,8 +71,13 @@ img {
     text-align: left;
   } 
 
-  .Table {
-      background-color: red;
-      height: 500px;
+  .table {
+      
+      height: 200px;
 
   }
+  .table th {
+    background-color: red;
+   
+
+}
