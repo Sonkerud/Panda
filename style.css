@@ -19,6 +19,7 @@ body {
     width: 400px;
     border-style: dotted;
     border-width: 10px;
+    padding:10px;
 }
 .image{
     margin-right: 200px;
@@ -46,7 +47,7 @@ body {
 
 
   #header {
-      /*-- background-image: url("https://www.nationalgeographic.com/content/dam/animals/2018/08/giant-pandas-vitale/panda-cubs-group.adapt.1900.1.jpg");--*/
+      /*-- background-image: url("https://www.nationalgeographic.com/content/dam/animals/2018/08/giant-pandas-vitale/panda-cubs-group.adapt.1900.1.jpg");--*/   
       background-color: purple;
       color:red;
       text-align: center;
