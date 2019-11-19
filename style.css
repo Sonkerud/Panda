@@ -1,5 +1,8 @@
 body {
-   
+    margin-left: auto;
+    margin-right: auto;
+    width: 60em;
+    background-image: "https://cbsnews1.cbsistatic.com/hub/i/2016/08/26/cdf56aa8-1f2a-4d44-8cac-ab5993ee7d18/gettyimages-594359398.jpg";
     
   }
   head {
@@ -17,10 +20,14 @@ body {
   #Text{
     background-color: powderblue;
     color: green;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
   }
 
   #div1{
       background-color: green;
+  
   }
   #div2{
     background-color: green;
