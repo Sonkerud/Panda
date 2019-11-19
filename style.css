@@ -1,6 +1,31 @@
 body {
-    background-color: powderblue;
+   
+    
+  }
+  head {
+      background-color: black;
   }
   h1 {
+    background-color: blueviolet;
     color: blue;
+  }
+
+  .Panda{
+      color: red;
+      background-color: green;
+  }
+
+  Text{
+    background-color: powderblue;
+    color: green;
+  }
+
+  .div1{
+      background-color: green;
+  }
+  .div2{
+    background-color: green;
+}
+  .header {
+      background-color: black;
   }
