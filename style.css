@@ -2,20 +2,21 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 55em;
-     
+    padding: 20px,20px;
+    background-image: url(https://www.carbonbrief.org/wp-content/uploads/2018/07/ginant-panda-china-1550x804.jpg);
     
 }
 .borderclass{
     border-style: ridge;
-    background-color: lightslategrey;
-    padding: 10px;
+    background-color: lightgray;
+   
 }
-h1{
-    text-shadow: 2px 2px 8px green;
-}
-h2{
-    text-shadow: 2px 2px 8px  green;
-}
+
+
+  head {
+      background-color: black;
+  }
+
  img {
     width: 400px;
     border-style: dotted;
@@ -26,55 +27,54 @@ h2{
     margin-left: 200px;
 }
 
- #Panda{
-      color: purple;
-
+  #panda{
+      color: black;
       background-color: burlywood;
       text-align: center;
       font-family: 'Courier New', Courier, monospace;
   }
 
+  
 
  .div1{
     background-color:burlywood;
     font-family: "Times New Roman";
     border-style: outset;
     border-width: 4px;
+    border-top-color: lightslategrey;
     width: 80%;
     margin-right: auto;
     margin-left: auto;
+    padding: 20px;
 }
 
 
+
   #header {
-      background-image: url("https://www.nationalgeographic.com/content/dam/animals/2018/08/giant-pandas-vitale/panda-cubs-group.adapt.1900.1.jpg");
+     background-image: url(https://www.nationalgeographic.com/content/dam/animals/2018/08/giant-pandas-vitale/panda-cubs-group.adapt.1900.1.jpg);
       color: red;
       text-align: center;
       text-decoration-style: dotted;
-      height: 80px;
+      height: 60px;
   }
-
   table, th, td {
     border: 1px solid black;
     align-content: center;
     width: 60%;
     margin-left: auto;
     margin-right: auto;
-
-
   }
+
   th {
-    height: 100px;
+    height: 50px;
     text-align: left;
   } 
 
   .table {
       
-      height: 200px;
-
+      height: 150px;
   }
+
   .table th {
     background-color: red;
-   
-
 }
