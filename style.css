@@ -1,23 +1,30 @@
 body {
     margin-left: auto;
     margin-right: auto;
-    width: 60em;
+    width: 55em;
+    border-style: ridge;
 }
 
   head {
       background-color: black;
   }
 
-
 img {
-    width: 40;
-    height: 50;
-    
+    width: 850px;
+    border-style: dotted;
+    border-width: 10px;
+
+}
+.image img{
+    align-content: center;
 }
 
   #Panda{
-      color: red;
-      background-color: green;
+      color: black;
+
+      background-color: burlywood;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
   }
 
   #Text{
@@ -31,6 +38,8 @@ img {
   #div1{
       background-color: green;
       font-family: "Times New Roman";
+      border-style: solid;
+      border-width: 8px;
   }
   #div2{
     background-color: green;
